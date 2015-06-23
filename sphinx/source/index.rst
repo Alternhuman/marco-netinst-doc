@@ -11,9 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   reference/intro
+   software_engineering/intro
 
-.. doxygenfile:: build.sh
-    :project: marco-netinst
+
 
 
 Indices and tables

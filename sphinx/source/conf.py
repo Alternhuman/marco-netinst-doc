@@ -11,10 +11,12 @@
 #
 # All configuration values have a default; values that are commented out
 # serve to show the default.
-
+from __future__ import absolute_import
 import sys
 import os
 import shlex
+
+sys.path.insert(0, "/home/martin/TFG/workspaces/pxe/marco-netinst/marco-bootstrap-backend")
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
