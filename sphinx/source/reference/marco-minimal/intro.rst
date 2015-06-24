@@ -1,5 +1,8 @@
-marco-minimal
-=============
+.. _marcominimalreference:
+
+marco-minimal reference
+=======================
+
 
 .. toctree::
     :maxdepth: 2

@@ -1,5 +1,7 @@
-marco-bootstrap-backend
-=======================
+.. _marcobootstrapbackendreference:
+
+marco-bootstrap-backend reference
+=================================
 
 .. toctree::
     :maxdepth: 2

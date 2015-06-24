@@ -1,0 +1,2 @@
+Vista estática del sistema
+==========================
