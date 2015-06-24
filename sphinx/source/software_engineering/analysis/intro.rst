@@ -10,5 +10,3 @@ Fase de análisis
     nfr
     actors
     static
-.. 
-    

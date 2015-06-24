@@ -28,7 +28,8 @@ Requisitos no funcionales
 **NFR5** Instalación a través de ``setuptools``
 -----------------------------------------------
 
-
+**NFR6** Registro
+-----------------
 
 .. 
     - **Versión**
